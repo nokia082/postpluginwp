@@ -1,0 +1,4 @@
+This is my first plugin. So, it's not an eye candy but it works. People who are new to Development can use it for learning how things work. There are two files attached with this project-
+1- index.php, it should be added to the wordpress\htdocs\wp-content\plugins\[Plugin folder name]
+2- main.js, it should be added to the child theme directory's js folder. ( NOTE- If there is no 'js' folder you can create one and name it 'js').
+Hope it helps you. try it out. :)
